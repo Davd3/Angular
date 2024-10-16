@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2"
+    }
+  ],
+  "clients": [
+    {
+      "id": "3",
+      "nome": "Giovanni",
+      "cognome": "Bianchi",
+      "email": "giovanni.bianchi@example.com",
+      "azienda": "Creative Studio",
+      "userId": 2
+    },
+    {
+      "id": "5",
+      "nome": "Luca",
+      "cognome": "Ferrari",
+      "email": "luca.ferrari@example.com",
+      "azienda": "AutoWorld",
+      "userId": 2
+    },
+    {
+      "id": "7",
+      "nome": "Davide",
+      "cognome": "Russo",
+      "email": "davide.russo@example.com",
+      "azienda": "Tech Innovations",
+      "userId": 2
+    },
+    {
+      "id": "9",
+      "nome": "Paolo",
+      "cognome": "Moretti",
+      "email": "paolo.moretti@example.com",
+      "azienda": "Finance Group",
+      "userId": 2
+    },
+    {
+      "id": "11",
+      "nome": "Stefano",
+      "cognome": "Galli",
+      "email": "stefano.galli@example.com",
+      "azienda": "Retail Chain",
+      "userId": 2
+    },
+    {
+      "id": "13",
+      "nome": "Alessandro",
+      "cognome": "Ricci",
+      "email": "alessandro.ricci@example.com",
+      "azienda": "Consulting Partners",
+      "userId": 2
+    },
+    {
+      "nome": "cuiao",
+      "cognome": "ciao",
+      "email": "ciao",
+      "azienda": "ciao",
+      "userId": "1",
+      "id": "ddf0"
+    },
+    {
+      "id": "415c",
+      "nome": "asddfgws",
+      "cognome": "sdfsdf",
+      "email": "sdfsdf",
+      "azienda": "sdfasdfa",
+      "userId": "1"
+    },
+    {
+      "id": "b776",
+      "nome": "dasfgwsdf",
+      "cognome": "sdfasdfg",
+      "email": "sdgsdfg",
+      "azienda": "sdgsdfg",
+      "userId": "1"
+    }
+  ]
+}

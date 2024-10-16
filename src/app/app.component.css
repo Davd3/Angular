@@ -1,0 +1,30 @@
+/* Stile per l'header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    background-color: #4d6da2;
+    z-index: 1000;
+}
+  
+  /* Stile per il link login */
+header a {
+    color: white;
+    background-color: #0052ea;
+    padding: 5px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    
+}
+
+/* Effetto hover per il link login */
+header a:hover {
+    background-color: #0052eaa0;
+}

@@ -1,0 +1,33 @@
+/* Imposta uno stile base per il form */
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Personalizzazione dei campi mat-form-field */
+  mat-form-field {
+    width: 100%;
+  }
+  
+  /* Stile del pulsante di login */
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color:#d3d3d3;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Aggiungi un effetto hover sul pulsante */
+  button:hover {
+    background-color: #8d8d8d;
+  }
+  
